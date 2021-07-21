@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aKacharava
 - 👀 I’m interested in Front-end development and I always look for something new to learn
-- 🌱 I’m currently learning Vue.js and I am creating an app that can track your tasks
+- 🌱 I’m currently learning Vue.js and I create several different apps to learn more about component based development
 - 📫 For more info about my projects, visit my portfolio: https://akdev.nl
 
 <!---
