@@ -5,6 +5,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aKacharava&theme=nightowl&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- replace x.x.x with actual version -->
-<script src="https://unpkg.com/@codersrank/skills-chart@0.9.21/codersrank-skills-chart.min.js"></script>
-<codersrank-skills-chart username="akacharava"></codersrank-skills-chart>
+
+![Language Timeline provided by CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akacharava&branding=false)
