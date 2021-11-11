@@ -6,4 +6,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aKacharava&theme=nightowl&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Language Timeline provided by CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akacharava&branding=false)
+![Language Timeline provided by CodersRank](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=akacharava&branding=false&labels=true)
