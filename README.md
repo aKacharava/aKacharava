@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Vue.js & React.js and I create several different apps to learn more about component based development
 - 📫 For more info about my projects, visit my portfolio: https://akdev.nl
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aKacharava)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aKacharava&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
