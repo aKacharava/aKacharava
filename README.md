@@ -3,7 +3,4 @@
 - 🌱 I’m currently learning Vue.js & React.js and I create several different apps to learn more about component based development
 - 📫 For more info about my projects, visit my portfolio: https://akdev.nl
 
-<!---
-aKacharava/aKacharava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aKacharava)](https://github.com/anuraghazra/github-readme-stats)
